@@ -1,0 +1,65 @@
+body {
+
+    background: url("../images/background2.gif");
+    background-size: auto;
+    background-repeat: repeat;
+    background-attachment: scroll;
+    color: #fff;
+
+}
+
+h1 {
+    letter-spacing: 12px;
+    margin: -40px 0 30px;
+    ;
+}
+
+
+h3 {
+    letter-spacing: 3px;
+}
+
+.titleimg {
+    margin: -20px 0 0;
+}
+
+.lanternimg {
+    width: 150px;
+    margin: 30px auto;
+}
+
+.instructions {
+    font-size: 22px;
+    text-align: center;
+    padding: 2px 85px;
+}
+
+.score {
+    padding-top: 30px;
+    margin-bottom: 0;
+    font-size: 22px;
+    font-weight: 600;
+    letter-spacing: 3px;
+}
+
+.total,
+.scores,
+.instructions {
+    margin: auto;
+}
+
+.btn {
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    color: #000;
+    background-color: #000;
+    color: #fff;
+    letter-spacing: 3px;
+}
+
+.btn:hover {
+    color: #000;
+    background-color: #fff;
+    letter-spacing: 3px;
+}
